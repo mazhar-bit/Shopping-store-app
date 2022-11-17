@@ -1,4 +1,4 @@
-# Shopping Store Application
+# Store Application
 ## _ReactNative 
 
 
