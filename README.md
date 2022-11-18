@@ -3,14 +3,11 @@
 
 
 
-
-
-
 ## Features
 
 - Dashboard screen is main Screen and second Screen is Cart Screen Bottom Tabs 
-- You Can Add Orders in Cart, Delete and increase or decrease the Products any Time
-- Cart Screen also display Total Price of Product
+- You Can Delete the product and increase or decrease the Products quantity.
+
 
 ## Using Fake API 
 - https://fakestoreapi.com
